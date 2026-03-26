@@ -10,7 +10,7 @@ Repeatable – überall gleiche Ergebnisse
 Self-validating – klares Pass/Fail, kein manuelles Prüfen
 Timely – Test wird vor dem Code geschrieben
 
-Black BoxKeins – kennt nur Output
+Black Box – kennt nur Output
 White Box - kennt nur Code
 Gray BoxTeilweise – Teile von Code und Output
 
